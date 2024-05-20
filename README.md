@@ -1,2 +1,2 @@
 # first-thing
-some challange
+Challange from fronted-mentor. Single page with simple CSS and HTML. 
